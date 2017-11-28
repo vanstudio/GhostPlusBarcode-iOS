@@ -23,8 +23,8 @@
 #import <GhostPlusBarcode/GPBarcodeEncoder.h>
 
 // Constans
-#define GHOSTPLUSBARCODE_VERSION           @"1.00";
-#define GHOSTPLUSBARCODE_BUILD_VERSION     @"100";
+#define GHOSTPLUSBARCODE_VERSION           @"1.01";
+#define GHOSTPLUSBARCODE_BUILD_VERSION     @"101";
 
 
 /**
