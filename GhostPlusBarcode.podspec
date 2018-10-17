@@ -1,4 +1,4 @@
-@version = "1.04"
+@version = "1.05"
 Pod::Spec.new do |s|
   s.name             = 'GhostPlusBarcode'
   s.version          = @version
@@ -29,5 +29,5 @@ Pod::Spec.new do |s|
   
   s.dependency 'GhostPlus'
   s.dependency 'ZXingObjC', '~> 3.6.0'
-  s.dependency 'libzbar', '~> 1.3.4'
+  s.dependency 'ZBarSDK', '~> 1.3.1'
 end

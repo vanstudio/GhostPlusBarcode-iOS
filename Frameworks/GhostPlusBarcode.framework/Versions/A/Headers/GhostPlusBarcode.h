@@ -17,14 +17,14 @@
 
 // Library
 #import <ZXingObjC/ZXingObjC.h>
-#import <libzbar/ZBarSDK.h>
+#import <ZBarSDK/ZBarSDK.h>
 
 // Module
 #import <GhostPlusBarcode/GPBarcodeEncoder.h>
 
 // Constans
-#define GHOSTPLUSBARCODE_VERSION           @"1.04";
-#define GHOSTPLUSBARCODE_BUILD_VERSION     @"104";
+#define GHOSTPLUSBARCODE_VERSION           @"1.05";
+#define GHOSTPLUSBARCODE_BUILD_VERSION     @"105";
 
 
 /**
